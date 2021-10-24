@@ -1,0 +1,6 @@
+This is a simple calculator
+numbers
+sysbols
+operators
+colors
+vibrant
